@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#80D8FF</color>
+    <color name="colorPrimaryDark">#01579B</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="background">#E1F5FE</color>
+    <color name="sights">#FF4081</color>
+    <color name="food">#FFFF00</color>
+    <color name="shops">#64DD17</color>
+    <color name="info">#FF6F00</color>
+
+
+</resources>
